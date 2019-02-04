@@ -1,1 +1,1 @@
-Simple application for demoing CI/CD in Kubernetes...!!!!!!!!
+Simple application for demoing CI/CD in Kubernetes...!!!!!!!!!!!!
